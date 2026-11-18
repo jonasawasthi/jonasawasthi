@@ -4,7 +4,7 @@ Developer and founder from Kathmandu, Nepal 🇳🇵
 
 I build products the way a good *chiya* gets made: slow boil, strong base, a little masala.
 
-Currently building **[Chiyali](https://www.chiyali.com)** — a creator-focused ecosystem designed to help Nepali creators, tutors, and communities turn what they know and make into sustainable businesses.
+I'm currently building products and open-source tools at the intersection of technology, entrepreneurship, and systems thinking.
 
 🌐 [developerjonas.com](https://developerjonas.com) · 🧪 [Lab Notes](https://labnotes.developerjonas.com) · 📬 [Email me](mailto:hi+github@developerjonas.com)
 
@@ -12,9 +12,28 @@ Currently building **[Chiyali](https://www.chiyali.com)** — a creator-focused 
 
 ### 🫖 Brewing right now
 
-- **[Chiyali](https://www.chiyali.com)** — building tools for creators to teach, sell, connect with their audiences, and get paid.
+- **[Chiyali](https://www.chiyali.com)** — building a creator-focused ecosystem to help Nepali creators, tutors, and communities teach, sell, connect, and earn.
+- **[Startup Skills](https://github.com/jonasawasthi/startup-skills)** — an open-source collection of 10 AI agent skills that help founders navigate the startup journey, from evaluating ideas and validating customers to business models, go-to-market strategy, pitch decks, and fundraising.
 - **Platform engineering** — shared identity, payments, and infrastructure that let independent products work together.
 - **Product experiments** — turning ideas into useful products, one small release at a time.
+
+### 🚀 Startup Skills
+
+I built Startup Skills because founders need more than AI-generated business plans. They need tools that challenge assumptions and keep decisions grounded in evidence.
+
+The toolkit includes 10 skills, including:
+
+- Startup Idea Evaluator
+- Customer Discovery & Validation
+- Business Model Designer
+- GTM Strategy Maker
+- Pitch Deck Maker
+- Fundraising Strategist
+- Investor Panel Evaluator
+
+The latest release, **v1.4.0**, introduces an Investor Panel Evaluator with 35 documented investor profiles across five markets.
+
+[Explore the project →](https://github.com/jonasawasthi/startup-skills)
 
 ### 🍪 What goes with my chiya
 
@@ -32,6 +51,7 @@ Currently building **[Chiyali](https://www.chiyali.com)** — a creator-focused 
 - Start with a real problem.
 - Keep the foundations simple and reliable.
 - Build reusable systems where they create leverage.
+- Question assumptions; follow the evidence.
 - Ship, learn, and improve.
 
 ---
