@@ -6,7 +6,7 @@ I build products the way a good *chiya* gets made: slow boil, strong base, a lit
 
 I'm currently building products and open-source tools at the intersection of technology, entrepreneurship, and systems thinking.
 
-🌐 [developerjonas.com](https://developerjonas.com) · 🧪 [Lab Notes](https://labnotes.developerjonas.com) · 📬 [Email me](mailto:hi+github@developerjonas.com)
+📬 [Email me](mailto:thejonassocial@gmail.com)
 
 ---
 
