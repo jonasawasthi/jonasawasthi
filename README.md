@@ -60,7 +60,7 @@ The latest release, **v1.4.0**, introduces an Investor Panel Evaluator with 35 d
 
 Have an interesting idea, want to build something meaningful, or just want to talk engineering? I'm always happy to connect.
 
-📬 [hi+github@developerjonas.com](mailto:hi+github@developerjonas.com)
+📬 [thejonassocial@gmail.com](mailto:thejonassocial@gmail.com)
 
 > *Every problem has an elegant solution. Sometimes you just need a second cup to see it.*
 
